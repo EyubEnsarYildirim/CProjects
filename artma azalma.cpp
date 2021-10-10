@@ -22,24 +22,23 @@ int main   ()  {
 	a=2;
 	
 	
-x=a+4;
-printf("y:%d a:%d x:%d\n",++++y,++++a,----x);
+    x=a+4;
+    printf("y:%d a:%d x:%d\n",++++y,++++a,----x);
 
 	
 	
 	
 	
-int t;
-int h;
-int g;
+    int t;
+    int h;
+    int g;
 
 
-t=8;
-h=7;
-g=6;
+    t=8;  
+    g=6;
 
-t=g-2;
-printf("t:%d h:%d g:%d\n",++t,++h,++g);
+    t=g-2;
+    printf("t:%d  g:%d\n",++t,++g);
 	
 	
 	
@@ -62,7 +61,7 @@ printf("t:%d h:%d g:%d\n",++t,++h,++g);
 	s=2;
 	e=3;
 	i=5;
-s=i+4;	
+    s=i+4;	
 	printf("s:%d e:%d i:%d",++s,++e,--i);
 	
 	
@@ -70,6 +69,7 @@ s=i+4;
 	
 	
 	
+
 	
 	
 	
