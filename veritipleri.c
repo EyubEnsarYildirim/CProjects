@@ -10,7 +10,7 @@ int main() {
 	float c1=4.2;
 	double d1=  0.21;
 	
-	printf("%d %c %d %.1f %.2f %s\n",a1,b1,b2,c1,d1,"veri tipleri");
+	printf("%d %c %c %.1f %.2f %s\n",a1,b1,b2,c1,d1,"veri tipleri");
 	
 	
 	
