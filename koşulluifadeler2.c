@@ -14,16 +14,16 @@ int main () {
 	dersnot = (vize1 + vize2 + final) /3.0;
 	
 	if (dersnot > 60 ){
-		printf("dersten gectiniz");
+	printf("dersten gectiniz");
 	
 	}
 	else if (dersnot > 50) {
-		printf("dersten bute kaldiniz");
+	printf("dersten bute kaldiniz");
 		
 	}
 	
 	else {
-		printf("dersten kaldiniz");
+	printf("dersten kaldiniz");
 	}
 	
 	return 0;
